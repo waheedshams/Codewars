@@ -2,8 +2,6 @@
 //  If the value entered is a string it should return "Error".
 
 function problem(x) {
-    //your code here
-    console.log(x)
   if(typeof x != "number"){
       return "Error"}
   else{
